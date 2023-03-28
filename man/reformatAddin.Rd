@@ -9,4 +9,3 @@ reformatAddin()
 \description{
 Reformat a block of code using formatR.
 }
-

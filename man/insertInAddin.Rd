@@ -9,4 +9,3 @@ insertInAddin()
 \description{
 Call this function as an addin to insert \code{ \%in\% } at the cursor position.
 }
-

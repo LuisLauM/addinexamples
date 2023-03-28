@@ -1,7 +1,8 @@
 Package: addinexamples
 Title: RStudio Addins
-Version: 0.1.0
-Authors@R: person("Kevin", "Ushey", email = "kevin@rstudio.com", role = c("aut", "cre"))
+Version: 0.1.1
+Authors@R: c(person("Kevin", "Ushey", email = "kevin@rstudio.com", role = c("aut", "cre")),
+             person("Wencheng", "Lau-Medrano", email = "luis.laum@gmail.com", role = c("ctb")))
 Description: Provides an example set of RStudio addins -- R functions that can be
     bound to keyboard shortcuts, and called through different UI gestures.
 Depends:
@@ -13,4 +14,4 @@ Imports:
     formatR
 License: MIT + file LICENSE
 LazyData: true
-RoxygenNote: 5.0.1
+RoxygenNote: 7.2.3

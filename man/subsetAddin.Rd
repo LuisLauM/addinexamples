@@ -22,4 +22,3 @@ The intended way to use this is as follows:
 When you're done, the code performing this operation will be emitted
 at the cursor position.
 }
-

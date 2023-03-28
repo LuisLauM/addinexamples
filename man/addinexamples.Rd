@@ -3,11 +3,9 @@
 \docType{package}
 \name{addinexamples}
 \alias{addinexamples}
-\alias{addinexamples-package}
 \title{RStudio Addins}
 \description{
 Use RStudio addins to execute \R functions interactively within RStudio.
 See \code{\link{findAndReplaceAddin}()} and \code{\link{insertInAddin}()}
 for two examples of R functions that are exported.
 }
-

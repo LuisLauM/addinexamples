@@ -17,3 +17,8 @@ Name: Subset a Data Frame
 Description: Interactively subset a data frame.
 Binding: subsetAddin
 Interactive: true
+
+Name: Insert |>
+Description: Inserts `|>` (native R pipe) at the cursor position.
+Binding: natpipeInAddin
+Interactive: false

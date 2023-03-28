@@ -41,3 +41,7 @@ installed R packages, and register them so that they can be invoked through
 keyboard shortcuts and other UI gestures. See the
 [RStudio Addins website](http://rstudio.github.io/rstudioaddins/)
 for more details.
+
+LuisLauM modifications
+----------------
+- Add native pipe (`|>`) addin.
