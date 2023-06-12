@@ -22,3 +22,8 @@ Name: Insert |>
 Description: Inserts `|>` (native R pipe) at the cursor position.
 Binding: natpipeInAddin
 Interactive: false
+
+Name: Insert #|
+Description: Inserts `#>` (hashpipe for Quarto files) at the cursor position.
+Binding: hashpipeInAddin
+Interactive: false
